@@ -20,5 +20,5 @@ A lightweight Python-based port scanning tool designed to scan target IP address
 Clone the repository to your local machine:
 
 ```bash
-git clone [https://github.com/Mesbamahib007/Port-Scanner.git](https://github.com/Mesbamahib007/Port-Scanner.git)
+git clone https://github.com/Mesbamahib007/Port-Scanner.git
 cd Port-Scanner
